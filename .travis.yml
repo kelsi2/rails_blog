@@ -3,3 +3,5 @@ rvm:
   - 3.0.0
 before_install:
   - gem install rake
+cache:
+  yarn
